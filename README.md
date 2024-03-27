@@ -13,4 +13,5 @@
 <br>
 <br>
 <br>
-<h2> <strong> <i>Versão Mobile:<i/> </strong> </h2>
+<h2> <strong> <i> Versão Mobile: <i/> </strong> </h2>
+  <img src="https://raw.githubusercontent.com/andrebravo01/Projeto-easy-shopping/f1c467a1ec20b0d52ea8a8ac78f6993776d00ddc/img/mobile-easy-shopping.jpg"/>
